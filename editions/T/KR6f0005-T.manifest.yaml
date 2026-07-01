@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0005/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0005/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘十法經
+  identifiers:
+    krp: KR6f0005
+    cbeta: T11n0314
+    cbeta_old_id: T11n0314
+    authorityid: CA0003055
+    json_key: T0314
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0314.xml
+    old_id: T11n0314
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0005_000-T.yaml, hash: 'sha256:38206f42456153211603f13f2c41d6e36466d412b78ab9f34171e64840a6c57d'}
+  - {seq: 1, filename: KR6f0005_001-T.yaml, hash: 'sha256:12d938d103e4ed6edd17e00bae368c2fbd74663f98abfaadca786547afcd80a0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0005_000-T.markers.yaml, hash: 'sha256:f4efb65d229d2970e9f89c0256aa9ae06fe0219b8e01199b9b7f4e760dbd60fa'}
+  - {seq: 1, role: markers, filename: assets/KR6f0005_001-T.markers.yaml, hash: 'sha256:016918dce0a56071161a6fb9931cebfe3bbe55510db050e954219ec570d40a6c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9102
+  label: 佛說大乘十法經
+  type: juan
+  level: 1
+hash: sha256:3352508c9689a5275eff4a4c846d22de4c1d67cd4b799baaec4ae446a7a69893

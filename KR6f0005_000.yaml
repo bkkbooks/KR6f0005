@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘十法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T11/T11n0314.xml
+    old_id: T11n0314
+hash: sha256:38206f42456153211603f13f2c41d6e36466d412b78ab9f34171e64840a6c57d
