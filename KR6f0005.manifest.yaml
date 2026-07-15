@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0005/v1
 canonical_location: https://kanripo.org/bkk/KR6f0005/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說大乘十法經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0005_000.yaml, hash: 'sha256:38206f42456153211603f13f2c41d6e36466d412b78ab9f34171e64840a6c57d'}
-  - {seq: 1, filename: KR6f0005_001.yaml, hash: 'sha256:12d938d103e4ed6edd17e00bae368c2fbd74663f98abfaadca786547afcd80a0'}
+  - {seq: 1, filename: KR6f0005_001.yaml, hash: 'sha256:a47ba8c8a5ce1cfc633d96b8640c75600529d8827ffbecff3633fc676014b3cb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0005_000.markers.yaml, hash: 'sha256:39a01acb5f39386755b077f13d1487b816e546ed4af56d408f69b70e943552ac'}
-  - {seq: 1, role: markers, filename: assets/KR6f0005_001.markers.yaml, hash: 'sha256:7137b4d5cacc0664bf87f02c3774a39753c0a6f035ed212a9059edaf39534d49'}
+  - {seq: 1, role: markers, filename: assets/KR6f0005_001.markers.yaml, hash: 'sha256:7fcf99bde470dfabe936156f3bb4253c0ec6673f8dbd0a87e5b83bba67d2d84e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說大乘十法經
   type: juan
   level: 1
-hash: sha256:355fe7a7241cc09084aca05b4bf18684851d3895a0558d1d308410fcc83de1e5
+hash: sha256:460cb193113d768b640dec0147785375de58650a2209a3abf03b81e005fa798a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
