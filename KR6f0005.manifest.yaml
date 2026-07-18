@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6f0005_000.yaml, hash: 'sha256:38206f42456153211603f13f2c41d6e36466d412b78ab9f34171e64840a6c57d'}
   - {seq: 1, filename: KR6f0005_001.yaml, hash: 'sha256:a47ba8c8a5ce1cfc633d96b8640c75600529d8827ffbecff3633fc676014b3cb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0005_000.markers.yaml, hash: 'sha256:39a01acb5f39386755b077f13d1487b816e546ed4af56d408f69b70e943552ac'}
+  - {seq: 0, role: markers, filename: assets/KR6f0005_000.markers.yaml, hash: 'sha256:53a9e5f2a664a8e9fd50d0da27441a2a512e9e66893d6241ef699352031553f8'}
   - {seq: 1, role: markers, filename: assets/KR6f0005_001.markers.yaml, hash: 'sha256:7fcf99bde470dfabe936156f3bb4253c0ec6673f8dbd0a87e5b83bba67d2d84e'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 佛說大乘十法經
   type: juan
   level: 1
-hash: sha256:460cb193113d768b640dec0147785375de58650a2209a3abf03b81e005fa798a
+hash: sha256:7bb9a9226dbc897f4892c4a63298acd765b962ce8c339382aa933c23aa90e4c4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
